@@ -1,0 +1,5 @@
+Id integer Name text Num numeric Email text 
+Id
+1 'Kamil O' 3.14 'kamiloj9@outlook.com'
+2 NULL -2.1 NULL
+3 'This is some text' 1.0 'test@wp.pl'

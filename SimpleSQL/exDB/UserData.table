@@ -1,0 +1,6 @@
+Id integer Secret text UserId integer 
+Id
+1 'text1' 3
+2 'text2' 69
+3 'asdf' NULL
+4 NULL 69

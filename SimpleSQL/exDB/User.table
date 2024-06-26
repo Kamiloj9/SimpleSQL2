@@ -1,0 +1,9 @@
+Email text Id integer Name text password text 
+Id
+'ex@ex.pl' 2 'Kamil' 'admin123'
+'ex2@ex.pl' 3 'Adam' 'admin'
+'ex@ex.com' 4 'Maciej' 'Secret'
+'ex222@ex.pl' 69 'Adam' 'admin'
+'ex2@ex.pl' 1337 'Adam' 'admin'
+'ex2@ex^.pl' 1338 'Adam' 'admin'
+'ex2@ex^.pl' 1339 'Adam' 'admin'
